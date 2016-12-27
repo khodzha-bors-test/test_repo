@@ -2,4 +2,7 @@ language: python
 sudo: false
 script:
  - true
-
+branches:
+    only:
+        - master
+        - staging
