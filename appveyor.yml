@@ -4,3 +4,8 @@ build_script:
   - ps: echo yes
 
 test: off
+
+branches:
+  only:
+    - master
+    - staging
