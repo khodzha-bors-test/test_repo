@@ -1,3 +1,2 @@
 status = [ "continuous-integration/travis-ci/push", "continuous-integration/appveyor/branch" ]
 cut-body-after = "<!-- boilerplate follows -->"
-delete_merged_branches = true
